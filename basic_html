@@ -1,12 +1,23 @@
-<html>
+<html dir="ltr">
 	<head>
-		<title>This is document title</title>
+		<title><b><i><u>This is document title</b></i></u></title>
 	</head>
-	<body>
-		<h1>This is a heading 1</h1>
-		<h2>This is a heading 2</h2>
-		<h3>This is a heading 3</h3>
-		<h4>This is a heading 4</h4>
-		<p>Document content goes here.....</p>
+	<body bgcolor="#ffff99">
+		
+		<h1 title="hello">This is a heading 1</h1>
+		<center>
+		<p>Document content goes here.....</p> <hr />
+		<p><tt>paragraph 1</tt> <br><b><strike>no</strike> hello</b> <br /> <u>I'm rakshitha</u></p><hr />
+		<p>a<sup>2</sup><sub>10</sub></p>
+		</center>
+		<pre>
+		function testFunction(strText){
+		alert(strText)}
+		</pre>
+		<p align="left">left aligned</p>
+		<p align="center">center aligned</p>
+		<p align="right">right aligned</p>
+
+	
 	</body>
 </html>
