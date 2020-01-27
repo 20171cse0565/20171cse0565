@@ -1,23 +1,43 @@
 <html dir="ltr">
 	<head>
-		<title><b><i><u>This is document title</b></i></u></title>
+		<title>W.O.R.K</title>
 	</head>
-	<body bgcolor="#ffff99">
+	<body bgcolor="#fbc531">
 		
-		<h1 title="hello">This is a heading 1</h1>
-		<center>
-		<p>Document content goes here.....</p> <hr />
-		<p><tt>paragraph 1</tt> <br><b><strike>no</strike> hello</b> <br /> <u>I'm rakshitha</u></p><hr />
-		<p>a<sup>2</sup><sub>10</sub></p>
+		<h1 title="hello">TITLE</h1>
+		<center><hr />
+		<p><em>Document content goes here.....<br>Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies, alongside Amazon, Apple, and Facebook.</p></em ><hr />
+		<p><tt>paragraph 1</tt> <br><b><strike>no</strike> <strong>hello</strong></b> <br /> <u><mark>I'm rakshitha</mark></u></p><hr />
+		<bdo dir="rtl">WELCOME</bdo> |<bdo dir="ltr"> WELCOME</bdo>  
+		<p>rS<sup>2</sup><sub>10</sub></p>
 		</center>
+		<UL>
+			<LI>Groceries....</LI>
+			<LI>Home decors....</LI>
+			<LI>Kitchenware....</LI>
+		</UL>
+		<OL>
+			<LI>Groceries....</LI>
+			<LI>Home decors....</LI>
+			<LI>Kitchenware....</LI>
+		</OL>
+		<OL TYPE="i">
+			<LI>Groceries....</LI>
+			<LI>Home decors....</LI>
+			<LI>Kitchenware....</LI>
+		</OL>
+		<OL TYPE="i" START="3">
+			<LI>Groceries....</LI>
+			<LI>Home decors....</LI>
+			<LI>Kitchenware....</LI>
+		</OL>
+		<p align="left">|left aligned|</p>
+		<p align="center">|center aligned|</p>
+		<p align="right">|right aligned|</p>
 		<pre>
 		function testFunction(strText){
 		alert(strText)}
 		</pre>
-		<p align="left">left aligned</p>
-		<p align="center">center aligned</p>
-		<p align="right">right aligned</p>
-
 	
 	</body>
 </html>
